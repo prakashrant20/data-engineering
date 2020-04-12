@@ -1,0 +1,16 @@
+[{
+   "name": "id",
+   "type": "int64",
+   "mode": "NULLABLE"
+ },
+ {
+   "name": "name",
+   "type": "string",
+   "mode": "NULLABLE"
+ },
+ {
+   "name": "age",
+   "type": "int64",
+   "mode": "NULLABLE"
+ }
+ ]
